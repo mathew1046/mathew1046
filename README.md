@@ -2,9 +2,8 @@
 
 ### A passionate developer from india
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathew1046&label=Profile views&color=0e75b6&style=flat" alt="mathew1046" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathew1046&label=Profile%20views&color=0e75b6&style=flat" alt="mathew1046" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathew1046" alt="mathew1046" /></a> </p>
 
 - 🔭 I'm currently working on **CalisthiniX**
 
@@ -37,5 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathew1046&show_icons=true&locale=en" alt="mathew1046" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathew1046&" alt="mathew1046" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathew1046" alt="mathew1046" /></p>
 
