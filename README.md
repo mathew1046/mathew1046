@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mathewjosephparakka@gmail.com**
 
-- ⚡ Fun fact **I am batman**
+- ⚡ Fun fact **I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
