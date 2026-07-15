@@ -22,7 +22,7 @@
 
 [![X Follow](https://img.shields.io/twitter/follow/0_xMatty?style=for-the-badge&logo=x&logoColor=white&color=000000)](https://twitter.com/0_xMatty)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xmathew)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mathewjoseph2006)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0x_mathew)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathew1046)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mathew1046&color=blueviolet&style=for-the-badge&label=VISITORS)
