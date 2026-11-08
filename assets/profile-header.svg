@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mathew Joseph | Software and applied machine learning</title>
+  <desc id="desc">A dark blue banner with mint geometric lines. Building accessible tools, from backend systems to applied machine learning.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1525"/><stop offset="1" stop-color="#142a38"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b1c9dc" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="55" y="48" width="5" height="222" rx="2.5" fill="#75e2c0"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="83" y="77" font-size="15" letter-spacing="3" fill="#75e2c0">SOFTWARE / APPLIED ML / ACCESSIBILITY</text>
+    <text x="79" y="151" font-size="62" font-weight="700" letter-spacing="-2" fill="#f2f6fa">Mathew Joseph</text>
+    <text x="83" y="200" font-size="23" fill="#b9cbd9">Building useful tools, from APIs to interfaces.</text>
+    <text x="83" y="256" font-size="16" fill="#8ca6ba">KERALA, INDIA</text>
+    <circle cx="226" cy="251" r="2.5" fill="#75e2c0"/>
+    <text x="242" y="256" font-size="16" fill="#8ca6ba">CSE (DATA SCIENCE) · CLASS OF 2028</text>
+  </g>
+  <g fill="none" stroke="#75e2c0" stroke-width="2">
+    <rect x="900" y="75" width="178" height="178" rx="25" stroke-opacity=".25" transform="rotate(-12 989 164)"/>
+    <rect x="926" y="98" width="178" height="178" rx="25" stroke-opacity=".5" transform="rotate(12 1015 187)"/>
+    <path d="M955 144 l-25 23 25 23 M1040 144 l25 23 -25 23 M1014 131 l-30 72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1096" cy="76" r="5" fill="#75e2c0"/>
+    <circle cx="887" cy="254" r="3" fill="#75e2c0" stroke="none"/>
+  </g>
+</svg>
