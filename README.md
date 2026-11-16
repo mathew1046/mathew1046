@@ -1,33 +1,30 @@
 # Mathew Joseph
 
-CS at MACE, Kerala · graduating 2028.  
-I work on speech, computer vision, and backend systems.
+I build speech, vision, and backend systems. Currently working on lower-latency announcement alerts in [CueBell](https://github.com/mathew1046/CueBell).
 
-### Now
+CSE (Data Science) at MACE, Kerala · graduating 2028
 
-Building **[CueBell](https://github.com/mathew1046/CueBell)** — listen for a specific announcement, get a visual or vibration alert. Made for deaf and hard-of-hearing users.
+### Start here
 
-Working on lower latency for Indian-language audio. `Python` · `FastAPI` · `Kotlin` · `React Native`
+**[GloveTalk](https://github.com/mathew1046/Sign2Sound_Kaizen)** · `PyTorch` `ESP32`  
+Sign recognition from cameras and sensor gloves, with a [pose transformer](https://github.com/mathew1046/Sign2Sound_Kaizen/blob/main/mspt/model.py) and [prediction fusion](https://github.com/mathew1046/Sign2Sound_Kaizen/blob/main/fusion/policy.py).  
+[1st place — IEEE SPS Sign2Sound, Team Kaizen](https://events.vtools.ieee.org/m/582470).
 
-### Selected work
+**[CueBell](https://github.com/mathew1046/CueBell)** · `Python` `FastAPI` `Kotlin`  
+Spoken announcements → visual and vibration alerts for deaf and hard-of-hearing users. [Transcript evidence checks](https://github.com/mathew1046/CueBell/blob/main/backend/app/validation.py) before accepting a match. [Demo video](https://github.com/mathew1046/CueBell/blob/main/mobile/public/demo/CueBell_demo_final.mp4).
 
-| Project | What it does |
-| :--- | :--- |
-| [GloveTalk](https://github.com/mathew1046/Sign2Sound_Kaizen) | Sign recognition with cameras and sensor gloves. `PyTorch` · `ESP32` |
-| [Brightloop](https://github.com/mathew1046/subscription-management-system) | Self-hosted subscriptions, invoices, and manual payment tracking. `Go` · `PostgreSQL` · `Next.js` |
+**[Brightloop](https://github.com/mathew1046/subscription-management-system)** · `Go` `PostgreSQL`  
+Self-hosted subscriptions and invoices, with [transactional billing](https://github.com/mathew1046/subscription-management-system/blob/main/backend/internal/app/billing.go) and manual payment tracking. My work: the Go backend, database, shared contracts, infrastructure, and integration.
 
-<details>
-<summary>Jump into the code</summary>
+**[KaiSign](https://github.com/mathew1046/KaiSign)** · `Python` `Raspberry Pi` `ESP32`  
+A restaurant ordering prototype with touch, sign, and voice input. [Build log](https://www.hackster.io/kaizen/kaisign-accessible-dining-reimagined-e8b724).  
+[Best In-Restaurant Experience — Seeed Interactive Signage 2026](https://www.seeedstudio.com/blog/2026/10/09/who-won-the-2026-interactive-signage-contest/), with Team Kaizen.
 
-- **CueBell:** [Checking transcript evidence before accepting a match](https://github.com/mathew1046/CueBell/blob/main/backend/app/validation.py).
-- **Brightloop:** [Recurring invoices inside PostgreSQL transactions](https://github.com/mathew1046/subscription-management-system/blob/main/backend/internal/app/billing.go).
-- **GloveTalk:** [Combining pose, alphabet, and glove predictions](https://github.com/mathew1046/Sign2Sound_Kaizen/blob/main/fusion/policy.py).
+### Beyond my repos
 
-</details>
+Merged work in [LLVM libc](https://github.com/llvm/llvm-project/pull/175376), [OpenHands CLI](https://github.com/OpenHands/OpenHands-CLI/pull/256), and [Hiero's Python SDK examples](https://github.com/hiero-ledger/hiero-sdk-python/pull/1227).
 
-### Upstream
-
-LLVM libc: [a merged `llogbl` refactor](https://github.com/llvm/llvm-project/pull/175376). [More LLVM / Clang patches](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Amathew1046).
+Also: [Snake, but you walk to move](https://github.com/mathew1046/SlitherSync).
 
 ---
 
