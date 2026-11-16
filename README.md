@@ -1,17 +1,34 @@
-<p align="center">
-  <a href="https://www.clevelandart.org/art/1985.317">
-    <img src="https://openaccess-cdn.clevelandart.org/1985.317/1985.317_web.jpg" alt="Hiroshige's Evening Snow at Kambara: three travellers walking through a snow-covered village." width="640" />
-  </a>
-  <br />
-  <sub>Utagawa Hiroshige · Evening Snow at Kambara, 1833 · Cleveland Museum of Art, CC0</sub>
-</p>
+# Mathew Joseph
 
-### Mathew Joseph
+CS at MACE, Kerala · graduating 2028.  
+I work on speech, computer vision, and backend systems.
 
-Computer science student at MACE, Kerala. Class of 2028.
+### Now
 
-- [CueBell](https://github.com/mathew1046/CueBell) · announcement alerts for deaf and hard-of-hearing users.
-- [Brightloop](https://github.com/mathew1046/subscription-management-system) · self-hosted subscription management.
-- [GloveTalk](https://github.com/mathew1046/Sign2Sound_Kaizen) · sign recognition with cameras and a sensor glove.
+Building **[CueBell](https://github.com/mathew1046/CueBell)** — listen for a specific announcement, get a visual or vibration alert. Made for deaf and hard-of-hearing users.
 
-[More projects](https://github.com/mathew1046?tab=repositories) · [LLVM/Clang PRs](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Amathew1046) · [LinkedIn](https://www.linkedin.com/in/0xmathew/) · [Email](mailto:mathewjosephparakka@gmail.com)
+Working on lower latency for Indian-language audio. `Python` · `FastAPI` · `Kotlin` · `React Native`
+
+### Selected work
+
+| Project | What it does |
+| :--- | :--- |
+| [GloveTalk](https://github.com/mathew1046/Sign2Sound_Kaizen) | Sign recognition with cameras and sensor gloves. `PyTorch` · `ESP32` |
+| [Brightloop](https://github.com/mathew1046/subscription-management-system) | Self-hosted subscriptions, invoices, and manual payment tracking. `Go` · `PostgreSQL` · `Next.js` |
+
+<details>
+<summary>Jump into the code</summary>
+
+- **CueBell:** [Checking transcript evidence before accepting a match](https://github.com/mathew1046/CueBell/blob/main/backend/app/validation.py).
+- **Brightloop:** [Recurring invoices inside PostgreSQL transactions](https://github.com/mathew1046/subscription-management-system/blob/main/backend/internal/app/billing.go).
+- **GloveTalk:** [Combining pose, alphabet, and glove predictions](https://github.com/mathew1046/Sign2Sound_Kaizen/blob/main/fusion/policy.py).
+
+</details>
+
+### Upstream
+
+LLVM libc: [a merged `llogbl` refactor](https://github.com/llvm/llvm-project/pull/175376). [More LLVM / Clang patches](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Amathew1046).
+
+---
+
+[All repos](https://github.com/mathew1046?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/0xmathew/) · [Email](mailto:mathewjosephparakka@gmail.com)
